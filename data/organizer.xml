@@ -4,14 +4,15 @@ Course organizer for Comp4711
 -->
 <organizer>
     <week num="1">
-        <topic>Introduction to MVC Webapps</topic>
-        <lesson type="lesson" name="intro01" pdf="intro01-introduction.pdf">Introduction</lesson>
+        <topic>Introduction &amp; PHP</topic>
+        <lesson type="lesson" name="dev01" pdf="dev01-devops-workflow.pdf">Devops Introduction</lesson>
         <tutorial type="tutorial" name="setup01" pdf="setup01-xampp-installation.pdf">XAMPP Installation</tutorial>
-        <tutorial type="tutorial" name="setup02" pdf="setup02-virtual-hosting-setup.pdf">Virtual Hosting Setup</tutorial>
+       <tutorial type="tutorial" name="setup02" pdf="setup02-ampp-stack-installation.pdf">AMP Stack Installation</tutorial>
         <tutorial type="tutorial" name="setup03" pdf="setup03-php-crash-course.pdf">PHP Crash Course</tutorial>
     </week>
     <week num="2">
         <topic>CodeIgniter MVC Framework</topic>
-        <lesson type="lesson" name="dev01" pdf="dev01-devops-workflow.pdf">Devops Workflow</lesson>
-    </week>
+<!--        <lesson type="lesson" name="dev01" pdf="dev01-devops-workflow.pdf">Devops Workflow</lesson>
+        <tutorial type="tutorial" name="setup02" pdf="setup02-virtual-hosting-setup.pdf">Virtual Hosting Setup</tutorial>
+-->    </week>
 </organizer>

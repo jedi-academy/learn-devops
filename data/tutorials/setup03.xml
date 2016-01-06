@@ -205,7 +205,7 @@ Tutorial 01c - PHP Sidetrip
         <p class="code">foreach ($arr as $value) {<br/>
             ... do something with each value in the array<br/>
             }</p>
-        <p class="code">foreach ($arr as $kery => $value) {<br/>
+        <p class="code">foreach ($arr as $key => $value) {<br/>
             ... same thing, except that we have access to the keys too<br/>
             }
         </p>       
