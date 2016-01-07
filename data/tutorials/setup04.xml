@@ -88,7 +88,7 @@ Tutorial 02b - Setting up CodeIgniter
 
     <slide title="Your Webapp Starter" layout="normal">
         <div class="left">
-            <p>If you eliminate the "develop"-only files and fodlers, what 
+            <p>If you eliminate the "develop"-only files and folders, what 
                 you are left with is an application starter:
                 index.php and the application folder.</p>
             <p>The subfolders inside "application" give you a pretty good

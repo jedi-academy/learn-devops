@@ -4,15 +4,21 @@ Course organizer for Comp4711
 -->
 <organizer>
     <week num="1">
-        <topic>Introduction &amp; PHP</topic>
-        <lesson type="lesson" name="dev01" pdf="dev01-devops-workflow.pdf">Devops Introduction</lesson>
-        <tutorial type="tutorial" name="setup01" pdf="setup01-xampp-installation.pdf">XAMPP Installation</tutorial>
-       <tutorial type="tutorial" name="setup02" pdf="setup02-ampp-stack-installation.pdf">AMP Stack Installation</tutorial>
-        <tutorial type="tutorial" name="setup03" pdf="setup03-php-crash-course.pdf">PHP Crash Course</tutorial>
+        <topic>Introduction</topic>
+        <lesson type="lesson" name="dev01" pdf="dev01-devops-introduction.pdf">Devops Introduction</lesson>
+        <lesson type="lesson" name="dev02" pdf="dev02-devops-overview.pdf">Workflow Overview</lesson>
     </week>
     <week num="2">
-        <topic>CodeIgniter MVC Framework</topic>
-<!--        <lesson type="lesson" name="dev01" pdf="dev01-devops-workflow.pdf">Devops Workflow</lesson>
+        <topic>PHP</topic>
+        <lesson type="lesson" name="php01" pdf="php01-php-vs-java.pdf">PHP vs Java</lesson>
+    </week>
+    <week num="3">
+        <topic>Setup</topic>
+        <tutorial type="tutorial" name="setup01" pdf="setup01-xampp-installation.pdf">XAMPP Installation</tutorial>
         <tutorial type="tutorial" name="setup02" pdf="setup02-virtual-hosting-setup.pdf">Virtual Hosting Setup</tutorial>
--->    </week>
+    </week>
+    <week num="4">
+        <topic>Workflow</topic>
+        <tutorial type="tutorial" name="setup04" pdf="setup04-workflow-example.pdf">Workflow Example</tutorial>
+    </week>
 </organizer>
