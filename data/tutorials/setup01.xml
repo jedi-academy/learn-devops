@@ -40,7 +40,7 @@ Tutorial 01a - XAMPP installation
             </p>
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-1.png"/>
+            <img src="/data/tutorials/pix/1a/1a-1.png"/>
         </div>
     </slide>
 
@@ -52,7 +52,7 @@ Tutorial 01a - XAMPP installation
             </p>
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-4.png"/>
+            <img src="/data/tutorials/pix/1a/1a-4.png"/>
         </div>
     </slide>
 
@@ -61,13 +61,13 @@ Tutorial 01a - XAMPP installation
             most appropriate to your platform:</p>
         <ol>
             <li>
-                <a href="#{tag1}">Windows</a> ... <img src="/data/tutorials/pix/1a-40.png"/>
+                <a href="#{tag1}">Windows</a> ... <img src="/data/tutorials/pix/1a/1a-40.png"/>
             </li>
             <li>
-                <a href="#{tag2}">Linux</a> ... <img src="/data/tutorials/pix/1a-30.png"/>
+                <a href="#{tag2}">Linux</a> ... <img src="/data/tutorials/pix/1a/1a-30.png"/>
             </li>
             <li>
-                <a href="#{tag3}">Mac OSX</a> ... <img src="/data/tutorials/pix/1a-20.png"/>
+                <a href="#{tag3}">Mac OSX</a> ... <img src="/data/tutorials/pix/1a/1a-20.png"/>
             </li>
             <li>
                 <a href="#{tag4}">Jump to the post installation part if XAMPP has already been installed</a>
@@ -87,7 +87,7 @@ Tutorial 01a - XAMPP installation
                 We have not experienced difficulties proceeding.</p>
          </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-3w.png"/>
+            <img src="/data/tutorials/pix/1a/1a-3w.png"/>
         </div>
     </slide>
 
@@ -98,7 +98,7 @@ Tutorial 01a - XAMPP installation
             </p>
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-5.png"/>
+            <img src="/data/tutorials/pix/1a/1a-5.png"/>
         </div>
     </slide>
 
@@ -110,7 +110,7 @@ Tutorial 01a - XAMPP installation
                 unless you want to play with them.</p>
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-5w.png"/>
+            <img src="/data/tutorials/pix/1a/1a-5w.png"/>
         </div>
     </slide>
 
@@ -127,7 +127,7 @@ Tutorial 01a - XAMPP installation
             </p>
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-6w.png"/>
+            <img src="/data/tutorials/pix/1a/1a-6w.png"/>
         </div>
     </slide>
 
@@ -155,7 +155,7 @@ Tutorial 01a - XAMPP installation
                 checkbox in the center of the window.</p>            
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-9.png"/>
+            <img src="/data/tutorials/pix/1a/1a-9.png"/>
         </div>
     </slide>
 
@@ -168,7 +168,7 @@ Tutorial 01a - XAMPP installation
                 later from the Start menu.</p>
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-12.png"/>
+            <img src="/data/tutorials/pix/1a/1a-12.png"/>
         </div>
     </slide>
 
@@ -183,7 +183,7 @@ Tutorial 01a - XAMPP installation
                 <p>You may now proceed to the <a href="#{tag4}">post-installation</a> part of this tutorial.</p>
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-11w.png"/>
+            <img src="/data/tutorials/pix/1a/1a-11w.png"/>
         </div>
     </slide>
 
@@ -197,7 +197,7 @@ Tutorial 01a - XAMPP installation
                 permissions to allow execution, before you can run it.</p>
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-3w.png"/>
+            <img src="/data/tutorials/pix/1a/1a-3w.png"/>
         </div>
     </slide>
 
@@ -208,7 +208,7 @@ Tutorial 01a - XAMPP installation
             </p>
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-5.png"/>
+            <img src="/data/tutorials/pix/1a/1a-5.png"/>
         </div>
     </slide>
 
@@ -220,7 +220,7 @@ Tutorial 01a - XAMPP installation
                 the developer files too.</p>
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-7.png"/>
+            <img src="/data/tutorials/pix/1a/1a-7.png"/>
         </div>
     </slide>
 
@@ -230,7 +230,7 @@ Tutorial 01a - XAMPP installation
                 folder. You have no choice.</p>
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-8.png"/>
+            <img src="/data/tutorials/pix/1a/1a-8.png"/>
         </div>
     </slide>
 
@@ -258,7 +258,7 @@ Tutorial 01a - XAMPP installation
                 checkbox in the center of the window.</p>            
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-9.png"/>
+            <img src="/data/tutorials/pix/1a/1a-9.png"/>
         </div>
     </slide>
 
@@ -272,7 +272,7 @@ Tutorial 01a - XAMPP installation
                 /opt/lampp folder.</p>            
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-12.png"/>
+            <img src="/data/tutorials/pix/1a/1a-12.png"/>
         </div>
     </slide>
 
@@ -282,7 +282,7 @@ Tutorial 01a - XAMPP installation
                 right.</p>           
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-13.png"/>
+            <img src="/data/tutorials/pix/1a/1a-13.png"/>
         </div>
     </slide>
 
@@ -294,7 +294,7 @@ Tutorial 01a - XAMPP installation
                 be intuitive.</p>           
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-14.png"/>
+            <img src="/data/tutorials/pix/1a/1a-14.png"/>
         </div>
     </slide>
 
@@ -308,7 +308,7 @@ Tutorial 01a - XAMPP installation
                 <p>You may now proceed to the <a href="#{tag4}">post-installation</a> part of this tutorial.</p>
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-15.png"/>
+            <img src="/data/tutorials/pix/1a/1a-15.png"/>
         </div>
     </slide>
 
@@ -343,7 +343,7 @@ Tutorial 01a - XAMPP installation
                 colored buttons, but the intent is the same.</p>
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-12w.png"/>
+            <img src="/data/tutorials/pix/1a/1a-12w.png"/>
         </div>
     </slide>
 
@@ -360,7 +360,7 @@ Tutorial 01a - XAMPP installation
             </p>           
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-20w.png"/>
+            <img src="/data/tutorials/pix/1a/1a-20w.png"/>
         </div>
     </slide>
 
@@ -405,7 +405,7 @@ Listen 80
                 in your URL, eg. "http://localhost".</p>
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-16.png"/>
+            <img src="/data/tutorials/pix/1a/1a-16.png"/>
         </div>
     </slide>
 
@@ -417,7 +417,7 @@ Listen 80
             <p>You should not see the splash page again :)</p>
         </div>
         <div class="right">
-            <img src="/data/tutorials/pix/1a-17.png"/>
+            <img src="/data/tutorials/pix/1a/1a-17.png"/>
         </div>
     </slide>
 

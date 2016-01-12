@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-Tutorial 02b - Setting up CodeIgniter
+Tutorial setup04 - CodeIgniter Setup
 -->
 <tutorial status="beta">
     <!-- Activity metadata ... override anything from the course or organizer -->
@@ -9,7 +9,7 @@ Tutorial 02b - Setting up CodeIgniter
     <slide title="Tutorial Goals" layout="normal">
         <p>This tutorial will walk you through setting up CodeIgniter
             for use with multiple webapps on your computer.</p>
-            <p>Instead of bundling the CodeIgniter framework with
+        <p>Instead of bundling the CodeIgniter framework with
             each webapp, we will split the downloaded CodeIgniter
             into 2 or even 3 folders</p>
         <p>Suggestion: you may want to skim the slideshow first,
@@ -25,12 +25,12 @@ Tutorial 02b - Setting up CodeIgniter
                 "develop" branch. If so, the stable one will have the user guide
                 pre-built, while the develop one will have the source for the user
                 guide (build it yourself) and unit tests.</p>
-                <p>The "develop" branch is the latest and greatest, though parts of
+            <p>The "develop" branch is the latest and greatest, though parts of
                 it might be experimental.</p>
         </div>
         <div class="right">
             <br/>
-            <img class="scale" width="600" height="319" src="/data/tutorials/pix/2-21.png"/>
+            <img class="scale" width="600" height="319" src="/data/tutorials/pix/2/2-21.png"/>
         </div>
     </slide>
 
@@ -47,7 +47,7 @@ Tutorial 02b - Setting up CodeIgniter
         </div>
         <div class="right">
             <br/>
-            <img class="scale" width="600" height="372" src="/data/tutorials/pix/2-22.png"/>
+            <img class="scale" width="600" height="372" src="/data/tutorials/pix/2/2-22.png"/>
         </div>
     </slide>
 
@@ -62,12 +62,12 @@ Tutorial 02b - Setting up CodeIgniter
             <p>If you downloaded the "release" version of CodeIgniter 3,
                 I suggest moving the user guide subfolder into a convenient
                 location on your system, for instance your desktop.</p>
-                <p>If you downloaded the "develop" version, you might find
+            <p>If you downloaded the "develop" version, you might find
                 it easier to acccess the user guide online.</p>
         </div>
         <div class="right">
             <br/>
-            <img class="scale" width="600" height="579" src="/data/tutorials/pix/2-23.png"/>
+            <img class="scale" width="600" height="579" src="/data/tutorials/pix/2/2-23.png"/>
         </div>
     </slide>
 
@@ -82,7 +82,7 @@ Tutorial 02b - Setting up CodeIgniter
                 different versions of the framework for different webapps.</p>
         </div>
         <div class="right">
-            <img class="scale" width="600" height="211" src="/data/tutorials/pix/2-24.png"/>
+            <img class="scale" width="600" height="211" src="/data/tutorials/pix/2/2-24.png"/>
         </div>
     </slide>
 
@@ -95,7 +95,7 @@ Tutorial 02b - Setting up CodeIgniter
                 idea of what goes where.</p>
         </div>
         <div class="right">
-            <img class="scale" width="600" height="435" src="/data/tutorials/pix/2-25.png"/>
+            <img class="scale" width="600" height="435" src="/data/tutorials/pix/2/2-25.png"/>
         </div>
     </slide>
 
@@ -108,7 +108,7 @@ Tutorial 02b - Setting up CodeIgniter
                 CodeIgniter webapp.</p>
         </div>
         <div class="right">
-            <img class="scale" width="564" height="181" src="/data/tutorials/pix/2-26.png"/>
+            <img class="scale" width="564" height="181" src="/data/tutorials/pix/2/2-26.png"/>
         </div>
     </slide>
 
@@ -120,7 +120,7 @@ Tutorial 02b - Setting up CodeIgniter
             <p>This is an Apache configuration file, which lets us
                 reference our webapp controllers without having to include
                 the "index.php" portion in a location URL.</p>
-                <p>If you are using a different web server, this may not help.</p>
+            <p>If you are using a different web server, this may not help.</p>
         </div>
         <div class="right">
             <pre>
@@ -143,13 +143,13 @@ RewriteRule ^(.*)$ ./index.php/$1 [L]
     <slide title="Are We Done Yet?" layout="normal">
         <div class="left">
             <p>Let's see. Replace the contents of the folder you have 
-                comp4711.local mapped to, with the contents of the
+                your webapp mapped to, with the contents of the
                 starter folder you just made.</p>
             <p>Open the homepage for that in your browser.</p>            
             <p>You should see the same as this :)</p>
         </div>
         <div class="right">
-            <img class="scale" width="600" height="283" src="/data/tutorials/pix/2-27.png"/>
+            <img class="scale" width="600" height="283" src="/data/tutorials/pix/2/2-27.png"/>
         </div>
     </slide>
 

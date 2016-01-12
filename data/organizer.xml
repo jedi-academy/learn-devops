@@ -15,10 +15,12 @@ Course organizer for Comp4711
     <week num="3">
         <topic>Setup</topic>
         <tutorial type="tutorial" name="setup01" pdf="setup01-xampp-installation.pdf">XAMPP Installation</tutorial>
+        <lesson type="lesson" name="setup02" pdf="setup02-devops-webapp-naming.pdf">Webapp Naming</lesson>
         <tutorial type="tutorial" name="setup02" pdf="setup02-virtual-hosting-setup.pdf">Virtual Hosting Setup</tutorial>
+        <tutorial type="tutorial" name="setup04" pdf="setup04-codeIgniter-setup.pdf">CodeIgniter Setup</tutorial>
     </week>
     <week num="4">
         <topic>Workflow</topic>
-        <tutorial type="tutorial" name="setup04" pdf="setup04-workflow-example.pdf">Workflow Example</tutorial>
+        <lesson type="lesson" name="dev03" pdf="dev03-devops-example.pdf">Workflow Example</lesson>
     </week>
 </organizer>
