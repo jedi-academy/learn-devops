@@ -52,10 +52,10 @@ Lesson dev02 - working with github
         </div>
         <div class="right">
             <br/>
-            <img class="scale" width="648" height="54" src="/data/tutorials/pix/2-1.png"/>
+            <img class="scale" width="648" height="54" src="/data/tutorials/pix/2/2-1.png"/>
             <br/>
             <br/>
-            <img class="scale" width="630" height="170" src="/data/tutorials/pix/2-2.png"/>
+            <img class="scale" width="630" height="170" src="/data/tutorials/pix/2/2-2.png"/>
         </div>
     </slide>
 
@@ -69,7 +69,7 @@ Lesson dev02 - working with github
         </div>
         <div class="right">
             <br/>
-            <img class="scale" width="600" height="407" src="/data/tutorials/pix/2-3.png"/>
+            <img class="scale" width="600" height="407" src="/data/tutorials/pix/2/2-3.png"/>
         </div>
     </slide>
 
@@ -83,7 +83,7 @@ Lesson dev02 - working with github
         </div>
         <div class="right">
             <br/>
-            <img class="scale" width="1008" height="461" src="/data/lessons/pix/d2-1.png"/>
+            <img class="scale" width="1008" height="461" src="/data/lessons/pix/d2/d2-1.png"/>
         </div>
     </slide>
 
@@ -93,7 +93,7 @@ Lesson dev02 - working with github
         </div>
         <div class="right">
             <br/>
-            <img class="scale" width="1008" height="461" src="/data/lessons/pix/d2-2.png"/>
+            <img class="scale" width="1005" height="522" src="/data/lessons/pix/d2/d2-2.png"/>
         </div>
     </slide>
 
@@ -110,7 +110,7 @@ Lesson dev02 - working with github
         </div>
         <div class="right">
             <br/>
-            <img class="scale" width="800" height="444" src="/data/lessons/pix/d2-3.png"/>
+            <img class="scale" width="617" height="499" src="/data/lessons/pix/d2/d2-3.png"/>
         </div>
     </slide>
 
@@ -122,7 +122,7 @@ Lesson dev02 - working with github
         </div>
         <div class="right">
             <br/>
-            <img class="scale" width="537" height="400" src="/data/lessons/pix/d2-4.png"/>
+            <img class="scale" width="1019" height="638" src="/data/lessons/pix/d2/d2-4.png"/>
         </div>
     </slide>
 
@@ -140,9 +140,9 @@ Lesson dev02 - working with github
         </div>
         <div class="right">
             <br/>
-            <img class="scale" width="537" height="400" src="/data/lessons/pix/d2-5.png"/>
+            <img class="scale" width="505" height="300" src="/data/lessons/pix/d2/d2-5.png"/>
             <br/>
-            <img class="scale" width="537" height="400" src="/data/lessons/pix/d2-6.png"/>
+            <img class="scale" width="508" height="266" src="/data/lessons/pix/d2/d2-6.png"/>
         </div>
 
     </slide>
@@ -159,14 +159,14 @@ Lesson dev02 - working with github
         </div>
         <div class="right">
             <br/>
-            <img class="scale" width="537" height="400" src="/data/lessons/pix/d2-7.png"/>
+            <img class="scale" width="507" height="314" src="/data/lessons/pix/d2/d2-7.png"/>
             <br/>
-            <img class="scale" width="537" height="400" src="/data/lessons/pix/d2-8.png"/>
+            <img class="scale" width="450" height="133" src="/data/lessons/pix/d2/d2-8.png"/>
         </div>
     </slide>
 
     <slide title="Some Useful Labels" layout="normal">
-        <div class="left">
+<!--        <div class="left">-->
             <p>Anything produced by a team member will end up in their
                 repository until it is merged into the shared one.
                 Until then, the member's repository is considered "ahead" of
@@ -175,161 +175,16 @@ Lesson dev02 - working with github
                 into a team member's repository, their repository is considered
                 "behind" the shared one.</p>
             <p>
-                If the two repositoties match, then the member's is said to be "even" with the shared one.</p>
+                If the two repositories match, then the member's is said to be "even" with the shared one.</p>
             <p>A member's repository can be both ahead of and behind the shared one,
                 for different pieces of code.</p>
-        </div>
+<!--          </div>
         <div class="right">
             <br/>
-            <img class="scale" width="537" height="400" src="/data/lessons/pix/d2-7.png"/>
+          <img class="scale" width="537" height="400" src="/data/lessons/pix/d2/d2-7.png"/>
             <br/>
-            <img class="scale" width="537" height="400" src="/data/lessons/pix/d2-8.png"/>
+            <img class="scale" width="537" height="400" src="/data/lessons/pix/d2/d2-8.png"/>
         </div>
-    </slide>
+-->    </slide>
 
-    <slide title="Play" layout="normal" tag="tag2">
-        <div class="left">
-            <p>On the Github website, fork the  repository you want
-                to work with or contribute to.</p>
-            <p></p>
-        </div>
-        <div class="right">
-            <img class="scale" width="600" height="475" src="/data/tutorials/pix/2-4.png"/>
-        </div>
-    </slide>
-
-    <slide title="Clone your fork locally" layout="normal">
-        <div class="left">
-            <p>You should remember this from last week :)</p>
-        </div>
-        <div class="right">
-            <img class="scale" width="600" height="481" src="/data/tutorials/pix/2-5.png"/>
-        </div>
-    </slide>
-
-    <slide title="Repository aliases" layout="normal">
-        <div class="left">
-            <p>You work locally with your repository clone.</p>
-            <p>Your (forked) repository is given the alias "origin".</p>
-            <p>The original repository should be given the alias
-                "upstream", in case you need to sync with it.
-                This might be easier to do from the command line.</p>
-        </div>
-        <div class="right">
-            <br/>
-            <img class="scale" width="570" height="449" src="/data/lessons/pix/2-31.png"/>
-        </div>
-    </slide>
-
-    <slide title="Create a topic branch" layout="normal">
-        <div class="left">
-            <p>Create a new branch, based on "master" or "develop", as appropriate, and check it out.</p>
-            <p>If you forget the checkout, things will likely get messed up :(</p>            
-        </div>
-        <div class="right">
-            <img class="scale" width="531" height="397" src="/data/tutorials/pix/2-6.png"/>
-        </div>
-    </slide>
-
-    <slide title="Make and then commit changes to your branch" layout="normal">
-        <div class="left">
-            <p>Make whatever project changes you are responsible for.</p>
-            <p>Commit your changes to your staging area after each group of
-                related changes.</p>
-            <p>Remember to make sure your commit is signed,
-                and that it has an appropriate message.</p>
-        </div>
-        <div class="right">
-            <img class="scale" width="600" height="516" src="/data/tutorials/pix/2-9.png"/>
-        </div>
-    </slide>
-
-    <slide title="Synchronize Your Fork With the Main Repo" layout="normal">
-        <div class="left">
-            <p>If any changes are made to the shared repository (for instance
-                by a fellow team member), you will need to synchronize
-                your repository with it. If you haven't done so already, you will need to add the remote
-                repository, and you should call it "upstream".</p>
-            <p>You can then synchronize your repo by
-                <ol>
-                    <li>Checkout the "master" branch</li>
-                    <li>git pull upstream master</li>
-                    <li>git push origin master</li>
-                    <li>Checkout your topic branch again.</li>
-                </ol>
-            </p>
-        </div>
-        <div class="right">
-            <img class="scale" width="600" height="377" src="/data/tutorials/pix/2-14.png"/>
-        </div>
-    </slide>
-
-    <slide title="Push your changes to your fork" layout="normal">
-        <div class="left">
-            <p>From your IDE, or the command line, push your changes to your 
-                server-side repository, "origin".</p>
-            <p>You should make sure you are in sync with the shared repository
-                before doing this, or you run the risk of ending up with
-                horrible conflicts.</p>
-            <p>If you get a nasty message when synchronizinging, you will need to resolve
-                any merge conflicts before continuing.</p>
-        </div>
-        <div class="right">
-            <img class="scale" width="600" height="436" src="/data/tutorials/pix/2-10.png"/>
-        </div>
-    </slide>
-
-    <slide title="Send a pull request to the original project" layout="normal">
-        <div class="left">
-            <p>If you switch to your github repository in your browser, you
-                will see that github is offering to "compare &amp; pull request".</p>            
-        </div>
-        <div class="right">
-            <img class="scale" width="600" height="330" src="/data/tutorials/pix/2-11.png"/>
-        </div>
-    </slide>
-
-    <slide title="Initiate the Compare &amp; Pull Request" layout="normal">
-        <div class="left">
-            <p>Select the "Compare &amp; pull request" link.</p>
-            <p>Near the top of the page, it should say that the pull
-                request can be automaticaly merged. If it doesn't,
-                you did something wrong, most likely forgetting
-                to synhronize with the shared repository before pushing
-                to your fork.</p>
-            <p>Scroll down to the bottom of the page displayed, and make 
-                sure that the changes are what you expect.</p>
-            <p>If all looks ok, click "Create pull request".</p>
-        </div>
-        <div class="right">
-            <img class="scale" width="600" height="412" src="/data/tutorials/pix/2-12.png"/>
-        </div>
-    </slide>
-
-    <slide title="Wait For It..." layout="normal">
-        <div class="left">
-            <p>At this point, you should see the main repository,
-                with your pull request center screen.</p>
-            <p>You can comment on it, but you will have to wait for the repo
-                maintainer to merge or reject your pull request.</p>
-        </div>
-        <div class="right">
-            <img class="scale" width="600" height="403" src="/data/tutorials/pix/2-13.png"/>
-        </div>
-    </slide>
-
-    <slide title="Are We Done Yet?" layout="normal">
-        <p>Your pull request might get rejected for any number of reasons.
-            You will get an email explaining the decision.</p>
-        <p>Once your pull request has been merged, resynchronize
-            with the "upstream" repo,
-            and you can delete the topic branch on your github repo as well as
-            locally.</p>
-        <p>This probably sounds like a lot of work, but it will
-            start to come naturally to you, and you will appreciate
-            the wisdom of shared code management, and some of the steps
-            here, once you have two or more developers sharing a repository!</p>
-    </slide>
-
- 
 </lesson>
